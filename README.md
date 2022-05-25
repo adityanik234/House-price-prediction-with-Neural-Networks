@@ -1,0 +1,2 @@
+# House-price-prediction-with-Neural-Networks
+This project involves the use of Neural Networks to predicting the prices of the houses in the King County , USA. The House sales in King County Dataset from Kaggle was used to train the model. The model was build using Keras and tensorflow and the Hyper-parameters were tuned using sklearns Randomised search with 3-fold Cross-validation. The final model's performance was then measured on the test set. The detaied analysis is provided in the report PDF.
